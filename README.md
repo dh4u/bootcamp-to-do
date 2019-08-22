@@ -1,10 +1,10 @@
 # ReactJS To-Do List
 
-![](/public/to-do.png)
+![](/public/To-Do.png)
 
 This project was for the Full Stack Developer bootcamp I did and was for a lesson on ReactJS events.
 
-## The assignment
+## The Assignment
 
 > Create a simple to-do app using React. A user should be able to enter a
 number of items that get displayed as a to-do list in your app. The user
