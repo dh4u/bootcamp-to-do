@@ -1,6 +1,6 @@
-import React from 'react';
-import Button from 'react-bootstrap/Button';
-import Form from 'react-bootstrap/Form';
+import React from '../../../node_modules/react';
+import Button from '../../../node_modules/react-bootstrap/Button';
+import Form from '../../../node_modules/react-bootstrap/Form';
 
 class AddForm extends React.Component{
     constructor(props){
